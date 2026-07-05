@@ -1,7 +1,0 @@
-.env
-__pycache__/
-*.pyc
-.pytest_cache/
-*.sqlite
-/tmp/eda_agent_samples/
-venv/
